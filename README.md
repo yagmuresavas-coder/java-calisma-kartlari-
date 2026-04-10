@@ -25,6 +25,7 @@ src/main/resources/
 🚀 Başlangıç (Quick Start)Depoyu Klonlayın:Bashgit clone https://github.com/kullaniciadin/codecards.git
 IntelliJ IDEA ile Açın:pom.xml dosyasını seçerek projeyi içeri aktarın (import).Çalıştırın:Main.java dosyasına sağ tıklayıp "Run" butonuna basın.
 
+<img width="602" height="566" alt="Ekran görüntüsü 2026-04-11 023050" src="https://github.com/user-attachments/assets/b6c0f828-6b7a-4717-ad68-b6c445a8eefd" />
 
 
 <img width="593" height="569" alt="Ekran görüntüsü 2026-04-11 023100" src="https://github.com/user-attachments/assets/a447dade-e39d-4035-bf12-eae5aeeda271" />
